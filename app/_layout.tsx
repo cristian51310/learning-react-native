@@ -6,6 +6,8 @@ import * as SplashScreen from 'expo-splash-screen';
 import { useEffect } from 'react';
 import { useColorScheme } from 'react-native';
 
+import "../global.css"
+
 export {
   // Catch any errors thrown by the Layout component.
   ErrorBoundary,
